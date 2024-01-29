@@ -2,13 +2,20 @@
 
 Bu proje, HTML, CSS ve JavaScript kullanılarak oluşturulmuş bir film ve dizi listesi projesidir.
 
+## Güncelleme Notları
+
 ##  1.0 Sürümü
 
 - [ ] Popüler filmler ve diziler listesi
 - [ ] Kullanıcının favori film ve dizi listesi
 
 ##  1.1 Sürümü
-- [ ]  Yakında Gelecek
+- [ ]  Kayıt ol sayfası eklendi.
+- [ ]  Optimizasyon Saglandı.
+
+## 1.2  Sürümü
+- [ ]  Yakında..
+
 
 ## Kurulum
 
