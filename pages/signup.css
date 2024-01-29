@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Electrolize&display=swap");
+
+/* Base Start */
+
+* {
+  margin: 0;
+}
+
+body {
+  font-family: "Electrolize", sans-serif;
+}
+
+/* Base End */
+
+/* Navbar Start */
+
+.navbar{
+  background-color: black;
+  height: 60px;
+  position: sticky;
+  top: 0;
+}
+
+.navbar-wrapper {
+  color: #fff;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 50px;
+  
+}
+
+.menu-list {
+  display: flex;
+  column-gap: 40px;
+  list-style: none;
+}
+
+.logo{
+  font-size: 30px;
+  color: rgb(255, 70, 70);
+}
+
+/* Navbar End */
+
+
+
+/* Signup Base Start */
+
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #131034;
+}
+
+/* Signup Base End */
+
+/* Signup Start */
+
+.signup-form{
+  width: 300px;
+  padding: 20px;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  overflow: hidden;
+}
+
+.signup-form h1{
+  color: #fff;
+  font-size: 40px;
+}
+
+.signup-form input{
+  display: block;
+  width: 100%;
+  padding: 0 16px;
+  height: 44px;
+  box-sizing: border-box;
+  border: none;
+  text-align: center;
+}
+
+.text {
+  margin: 20px 0;
+  border-radius: 20px;
+}
+
+.signup-btn{
+  margin-top: 60px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+  background-color: #558fef;
+  transition: 0.8s;
+}
+
+.signup-btn-btn {
+  text-decoration: none;
+  color: red;
+}
+
+/* Signup  End */
